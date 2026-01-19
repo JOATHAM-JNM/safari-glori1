@@ -1,0 +1,84 @@
+Body {
+    Margin : 0 ;
+    Font-family : Arial, sans-serif ;
+    Background-color : #f2f2f2 ;
+}
+
+/* En-tête */
+Header {
+    Background-color : #92f1d5 ;
+    Color : white ;
+    Text-align : center ;
+    Padding : 30px ;
+}
+
+/* Section photos */
+.photos {
+    
+    Padding : 14px ;
+    Background-color : white ;
+}
+
+.photo {
+    height: 120%;
+    Width : 50% ;
+    Text-align : center ;
+}
+
+.photo img {
+    Width : 100% ;
+    Height : 1100px ;
+    Object-fit : cover ;
+    Border-radius : 10px ;
+}
+
+.photo h3 {
+    Color : #1e3a8a ;
+    Margin-top : 10px ;
+}
+
+.photo p {
+    Font-size : 40px ;
+    Text-align : justify ;
+    background-color: rgb(236, 233, 60);
+}
+
+/* Sections texte */
+Section {
+    Margin : 20px ;
+    Padding : 20px ;
+    Background-color : white ;
+    Border-radius : 8px ;
+}
+
+/* Tableau */
+Table {
+    Width : 100% ;
+    Border-collapse : collapse ;
+}
+
+Table, th, td {
+    Border : 1px solid black ;
+}
+
+Th, td {
+    Padding : 8px ;
+    Text-align : center ;
+}
+
+/* Pied de page */
+Footer {
+    Background-color : #4b0f0f ;
+    Color : white ;
+    Text-align : center ;
+    Padding : 15px ;
+}
+.a {
+ text-align: center;
+}
+.b {
+    Font-size : 40px ;
+    Text-align : justify ;
+    background-color: rgb(236, 233, 60);
+}
+
